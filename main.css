@@ -1,0 +1,62 @@
+nav {
+    float: right;
+    color: #1A70BD;
+}
+.float-right {
+    float: right;
+}
+.float-left {
+    float: left;
+}
+.align-left {
+    text-align: left;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #37352F;
+}
+main {
+    max-width: 50%;
+    margin: auto;
+}
+header {
+    max-width: 50%;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #37352F;
+}
+.paragraph1 {
+    font-size: 24px;
+}
+.contact-me {
+    text-align: right;
+}
+.container {
+    width: 336px;
+    height: 216px;
+    background-color: #F2F8FD;
+    background-image: url(image/Find_Labs.png);
+    background-size: 336px;
+}
+.container2 {
+    width: 336px;
+    height: 216px;
+    background-color: #F2F8FD;
+    background-image: url(image/Home_and_sales_orders.png);
+    background-size: 336px;
+}
+.container3 {
+    max-width: 752px;
+    height: auto;
+    background-color: #F1F1EF;
+    padding: 16px;
+}
+.semi-bold {
+    font-weight: 500;
+}
+.blue {
+    color: #1A70BD;
+}
+ul {
+    padding: 0%;
+}

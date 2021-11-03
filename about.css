@@ -1,0 +1,24 @@
+main {
+    max-width: 50%;
+    margin: auto;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #37352F;
+}
+header {
+    max-width: 50%;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #37352F;
+}
+.float-right {
+    float: right;
+}
+.paragraph11 {
+    font-size: 32px;
+}
+nav {
+    float: right;
+    color: #1A70BD;
+}
